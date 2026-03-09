@@ -8,8 +8,6 @@
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 🤝 I'm looking for help with **learning system design**
-
 - 💬 Ask me about **data science tools , machine learning models and python full stack development**
 
 - 📫 How to reach me **sprabhkirat43@gmail.com**
@@ -17,11 +15,11 @@
 - ⚡ Fun fact **💻 I enjoy solving complex Data Structures and Algorithms problems, especially using C++.
 📊 I am passionate about Data Science and machine learning**
 
-- 👨‍💻 All of my projects are available at **[https://prabhkiratsingh123.github.io/prabhkiratsinghportfolio.github.io/](https://prabhkiratsingh123.github.io/prabhkiratsinghportfolio.github.io/)**
+- 👨‍💻 All of my projects are available at **[https://prabhkiratsinghportfolio.github.io/](https://prabhkiratsingh123.github.io/prabhkiratsinghportfolio.github.io/)**
 
-- 📝 I regularly write articles on **[https://dev.to/prabhkirat007/difference-between-render-and-httpresponse-in-django-with-practical-examples-42fp](https://dev.to/prabhkirat007/difference-between-render-and-httpresponse-in-django-with-practical-examples-42fp)**
+- 📝 I regularly write articles on **[https://dev.to/prabhkirat007/](https://dev.to/prabhkirat007/difference-between-render-and-httpresponse-in-django-with-practical-examples-42fp)**
 
-- 📄 Know about my experiences **[https://www.linkedin.com/in/prabhkiratsingh123/overlay/1771248931140/single-media-viewer/?profileId=ACoAAEfmTF8B_Vu9pQQ-Ku2UjdyqqKo-AoXitLs](https://www.linkedin.com/in/prabhkiratsingh123/overlay/1771248931140/single-media-viewer/?profileId=ACoAAEfmTF8B_Vu9pQQ-Ku2UjdyqqKo-AoXitLs)**
+- 📄 Know about my experiences **[https://www.linkedin.com/in/prabhkiratsingh123/resume](https://www.linkedin.com/in/prabhkiratsingh123/overlay/1771248931140/single-media-viewer/?profileId=ACoAAEfmTF8B_Vu9pQQ-Ku2UjdyqqKo-AoXitLs)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
