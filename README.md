@@ -24,10 +24,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/PrabhkiratSingh123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="PrabhkiratSingh123" height="30" width="40" /></a>
-<a href="https://dev.to/ Prabhkirat Singh" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg](https://dev.to/prabhkirat007)" alt=" Prabhkirat Singh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Prabhkirat Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prabhkirat Singh" height="30" width="40" /></a>
-<a href="https://hackerrank.com/Prabhkirat Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prabhkirat Singh" height="30" width="40" /></a>
-<a href="https://leetcode.com/Prabhkirat Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prabhkirat Singh" height="30" width="40" /></a>
+<a href="https://dev.to/prabhkirat007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prabhkirat007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabhkiratsingh123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhkiratsingh123" height="30" width="40" /></a>
+<a href="https://hackerrank.com/ssardool51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ssardool51" height="30" width="40" /></a>
+<a href="https://leetcode.com/QYQf25pNTg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="QYQf25pNTg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
