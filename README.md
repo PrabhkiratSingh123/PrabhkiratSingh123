@@ -15,7 +15,7 @@
 - ⚡ Fun fact **💻 I enjoy solving complex Data Structures and Algorithms problems, especially using C++.
 📊 I am passionate about Data Science and machine learning**
 
-- 👨‍💻 All of my projects are available at **[https://prabhkiratsinghportfolio.github.io/](https://prabhkiratsingh123.github.io/prabhkiratsinghportfolio.github.io/)**
+- 👨‍💻 All of my projects are available at **[https://prabhkiratsinghportfolio.github.io/](https://prabhkiratsingh123.github.io/)**
 
 - 📝 I regularly write articles on **[https://dev.to/prabhkirat007/](https://dev.to/prabhkirat007/difference-between-render-and-httpresponse-in-django-with-practical-examples-42fp)**
 
